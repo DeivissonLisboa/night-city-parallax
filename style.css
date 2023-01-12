@@ -50,6 +50,6 @@ body {
 
 @keyframes backgroundScrollX {
   100% {
-    background-position-x: -500vw;
+    background-position-x: -5000px;
   }
 }
