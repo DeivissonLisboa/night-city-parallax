@@ -25,6 +25,15 @@ body {
   background-position: bottom;
   background-repeat: repeat-x;
   image-rendering: pixelated;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layer h1 {
+  color: #fff;
+  font-size: 15vw;
+  text-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
 }
 
 .layer:nth-child(4) {
